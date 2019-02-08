@@ -2,7 +2,7 @@
   "name": "John M Maraganore",
   "personNumber":"1009",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-  "area": "Corporate",
+  "area": "https://tesla-apex.rxdatascience.com/ords/f?p=1601:4:15090261634163::NO:::",
   "profileUrl": "https://tesla-apex.rxdatascience.com/ords/f?p=1601:4:15090261634163::NO:::",
   "office": "https://tesla-apex.rxdatascience.com/ords/f?p=1601:4:15090261634163::NO:::",
   "tags": "Ceo,tag1,manager,cto",
