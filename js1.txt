@@ -3,8 +3,7 @@
   "personNumber":"1009",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
   
-  "profileUrl": 'f?p='||:APP_ID||':4:'||:APP_SESSION||':::',
-  
+  "profileUrl": href='f?p='||:APP_ID||':4:'||:APP_SESSION||':::' target=\"_blank\",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
@@ -19,7 +18,7 @@
 	  "personNumber":"1565",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       
-      "profileUrl": 'f?p='||:APP_ID||':4:'||:APP_SESSION||':::',
+      "profileUrl": href='f?p='||:APP_ID||':4:'||:APP_SESSION||':::' target=\"_blank\",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
@@ -11963,7 +11962,7 @@
 	  "personNumber":"1081",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
       
-      "profileUrl": 'f?p='||:APP_ID||':4:'||:APP_SESSION||':::',
+      "profileUrl": href='f?p='||:APP_ID||':4:'||:APP_SESSION||':::' target=\"_blank\",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
@@ -18046,7 +18045,7 @@
 	  "personNumber":"1036",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       
-      "profileUrl": 'f?p='||:APP_ID||':4:'||:APP_SESSION||':::',
+      "profileUrl": href='f?p='||:APP_ID||':4:'||:APP_SESSION||':::' target=\"_blank\",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
@@ -20151,7 +20150,7 @@
 	  "personNumber":"1035",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
       
-      "profileUrl": 'f?p='||:APP_ID||':4:'||:APP_SESSION||':::',
+      "profileUrl": href='f?p='||:APP_ID||':4:'||:APP_SESSION||':::' target=\"_blank\",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
