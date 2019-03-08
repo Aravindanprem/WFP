@@ -20077,7 +20077,7 @@
     {
       "name": " Barry Greene",
 	  "personNumber":"1035",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+      "imageUrl": "",
       
       "profileUrl": "https://tesla-apex.rxdatascience.com/ords/f?p=1601:4:15090261634163::NO:::",
       "office": "CEO office",
