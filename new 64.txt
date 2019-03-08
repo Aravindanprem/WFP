@@ -2423,7 +2423,7 @@
                       "positionName": "Linear Manager"
                     },
                     {
-                      "name": "Peacock Margaret",
+                      "name": "Richard Dabner",
                       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                       
                       "profileUrl": "http://example.com/employee/profile",
@@ -2434,7 +2434,7 @@
                         "type": "department",
                         "value": "Finance Department"
                       },
-                      "positionName": "CEO"
+                      "positionName": "Director, National Accounts"
                     },
                     {
                       "name": "Buchanan Steven",
@@ -2509,7 +2509,7 @@
                       ]
                     },
                     {
-                      "name": "West Adam",
+                      "name": "Khashka Bleach",
                       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                       
                       "profileUrl": "http://example.com/employee/profile",
@@ -2520,7 +2520,7 @@
                         "type": "department",
                         "value": "Finance Department"
                       },
-                      "positionName": "CTO"
+                      "positionName": "Contractor"
                     },
                     {
                       "name": "Charlotte Cooper",
