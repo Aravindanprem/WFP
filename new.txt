@@ -11904,7 +11904,7 @@
         {
           "name": "William Bodin",
           "isLoggedUser": false,
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
+          "imageUrl": "",
           
           "profileUrl": "http://example.com/employee/profile",
           "office": "CEO office",
@@ -11914,7 +11914,7 @@
             "value": "Purchases Department",
             "desc":"Purchase Department Description"
           },
-          "positionName": "Head of channels",
+          "positionName": "Head of Labs",
           "children": [
             {
               "name": " Leverling Janet",
@@ -17970,7 +17970,7 @@
       ]
     },
     {
-      "name": " Jennifer Curley",
+      "name": "Manmeet Soni",
 	  "personNumber":"1036",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       
@@ -17982,7 +17982,7 @@
         "type": "business",
         "value": "Business three"
       },
-      "positionName": "Sr Executive Assistant to the CEO",
+      "positionName": "CFO",
       "children": [
         {
           "name": "Valle Saavedra",
@@ -20077,7 +20077,7 @@
     {
       "name": " Barry Greene",
 	  "personNumber":"1035",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
       
       "profileUrl": "https://tesla-apex.rxdatascience.com/ords/f?p=1601:4:15090261634163::NO:::",
       "office": "CEO office",
